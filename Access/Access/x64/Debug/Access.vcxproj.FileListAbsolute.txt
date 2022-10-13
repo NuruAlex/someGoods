@@ -1,0 +1,4 @@
+C:\Users\Aleksej\source\repos\Access\Access\x64\Debug\Access.vcxproj.AssemblyReference.cache
+C:\Users\Aleksej\source\repos\Access\Access\x64\Debug\Access.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksej\source\repos\Access\Access\x64\Debug\Access.Main.resources
+C:\Users\Aleksej\source\repos\Access\Access\x64\Debug\Access.vcxproj.GenerateResource.cache
